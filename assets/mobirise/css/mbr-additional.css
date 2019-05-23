@@ -3478,13 +3478,43 @@ body {
     width: 100% !important;
   }
 }
-.cid-rrigzKGmpE {
-  padding-top: 60px;
+.cid-rrj68zBKwF {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rrj68zBKwF .mbr-text,
+.cid-rrj68zBKwF blockquote {
+  color: #767676;
+}
+.cid-rrj87mJDD1 {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rrj87mJDD1 .image-block {
+  margin: auto;
+}
+.cid-rrj87mJDD1 figcaption {
+  position: relative;
+}
+.cid-rrj87mJDD1 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rrj87mJDD1 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rrj9dAcAux {
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rrigzKGmpE .mbr-text,
-.cid-rrigzKGmpE blockquote {
+.cid-rrj9dAcAux .mbr-text,
+.cid-rrj9dAcAux blockquote {
   color: #767676;
 }
 .cid-rrici5cBK2 .navbar {
@@ -3913,6 +3943,45 @@ body {
     width: 100% !important;
   }
 }
+.cid-rrj3sFpBEl {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rrj3sFpBEl .mbr-text,
+.cid-rrj3sFpBEl blockquote {
+  color: #767676;
+}
+.cid-rrj4jyTPCz {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rrj4jyTPCz .image-block {
+  margin: auto;
+}
+.cid-rrj4jyTPCz figcaption {
+  position: relative;
+}
+.cid-rrj4jyTPCz figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rrj4jyTPCz .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rrjow2r7Sn {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rrjow2r7Sn .mbr-text,
+.cid-rrjow2r7Sn blockquote {
+  color: #767676;
+}
 .cid-rrici5cBK2 .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -4338,4 +4407,13 @@ body {
   .cid-rrigndUFwO .inner-container {
     width: 100% !important;
   }
+}
+.cid-rrj9UFcEOP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rrj9UFcEOP .mbr-text,
+.cid-rrj9UFcEOP blockquote {
+  color: #767676;
 }
